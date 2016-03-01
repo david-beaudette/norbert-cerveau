@@ -1,2 +1,2 @@
 # norbert-cerveau
-Code pour le robot Norbert
+Code pour le cerveau du robot Norbert.
